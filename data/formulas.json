@@ -1,0 +1,90 @@
+{
+  "version": "1.0.0",
+  "formulas": [
+    {
+      "id": "1",
+      "name": "四君子汤",
+      "pinyin": "si_jun_zi_tang",
+      "category": "补气",
+      "effects": ["健脾益气", "补气养血"],
+      "ingredients": [
+        {"name": "人参", "dosage": "6g", "function": "补气第一要药"},
+        {"name": "白术", "dosage": "9g", "function": "健脾益气"},
+        {"name": "茯苓", "dosage": "9g", "function": "健脾利湿"},
+        {"name": "炙甘草", "dosage": "6g", "function": "调和诸药"}
+      ],
+      "indications": "脾胃虚弱，气血不足",
+      "usage": "水煎服，温服",
+      "origin": "《和剂局方》",
+      "history": "组方简洁有效，是补气的基础方剂"
+    },
+    {
+      "id": "2",
+      "name": "补中益气汤",
+      "pinyin": "bu_zhong_yi_qi_tang",
+      "category": "补气",
+      "effects": ["补中益气", "升阳举陷"],
+      "ingredients": [
+        {"name": "黄芪", "dosage": "12g", "function": "补气升阳"},
+        {"name": "人参", "dosage": "6g", "function": "大补元气"},
+        {"name": "白术", "dosage": "6g", "function": "健脾益气"},
+        {"name": "炙甘草", "dosage": "3g", "function": "调和诸药"},
+        {"name": "当归", "dosage": "6g", "function": "补血和血"}
+      ],
+      "indications": "脾胃虚弱，中气下陷",
+      "usage": "水煎服，温服",
+      "origin": "李东垣《脾胃论》"
+    },
+    {
+      "id": "3",
+      "name": "逍遥散",
+      "pinyin": "xiao_yao_san",
+      "category": "疏肝",
+      "effects": ["疏肝解郁", "健脾和中"],
+      "ingredients": [
+        {"name": "柴胡", "dosage": "6g", "function": "疏肝解郁"},
+        {"name": "白芍", "dosage": "9g", "function": "补血柔肝"},
+        {"name": "白术", "dosage": "9g", "function": "健脾益气"},
+        {"name": "茯苓", "dosage": "9g", "function": "健脾利湿"}
+      ],
+      "indications": "肝脾不和，情志不遂",
+      "usage": "水煎服或作散剂",
+      "origin": "《和剂局方》"
+    },
+    {
+      "id": "4",
+      "name": "六君子汤",
+      "pinyin": "liu_jun_zi_tang",
+      "category": "补气",
+      "effects": ["健脾益气", "祛湿痰"],
+      "ingredients": [
+        {"name": "人参", "dosage": "6g"},
+        {"name": "白术", "dosage": "9g"},
+        {"name": "茯苓", "dosage": "9g"},
+        {"name": "甘草", "dosage": "6g"},
+        {"name": "半夏", "dosage": "6g", "function": "燥湿化痰"},
+        {"name": "陈皮", "dosage": "6g", "function": "理气健脾"}
+      ],
+      "indications": "脾虚湿困、痰饮阻滞",
+      "usage": "水煎服，温服"
+    },
+    {
+      "id": "5",
+      "name": "八珍汤",
+      "pinyin": "ba_zhen_tang",
+      "category": "补气补血",
+      "effects": ["补气养血", "健脾益气"],
+      "ingredients": [
+        {"name": "人参", "dosage": "6g"},
+        {"name": "黄芪", "dosage": "12g", "function": "补气固表"},
+        {"name": "当归", "dosage": "9g", "function": "补血活血"},
+        {"name": "白术", "dosage": "9g"},
+        {"name": "茯苓", "dosage": "9g"},
+        {"name": "炙甘草", "dosage": "6g"}
+      ],
+      "indications": "气血两虚、脾胃虚弱",
+      "usage": "水煎服，温服"
+    }
+  ],
+  "updated_at": "2026-10-23T00:00:00Z"
+}

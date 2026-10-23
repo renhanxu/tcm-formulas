@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "combinations": [
+    {"compatible": ["黄芪", "甘草"], "reason": "相须：增强补气功效"},
+    {"compatible": ["人参", "白术"], "reason": "相须：健脾益气"},
+    {"incompatible": ["甘遂", "甘草"], "reason": "相反：十八反，不能同用"},
+    {"incompatible": ["人参", "萝卜"], "reason": "相恶：萝卜能削弱人参功效"}
+  ],
+  "updated_at": "2026-10-23T00:00:00Z"
+}
